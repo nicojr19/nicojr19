@@ -98,11 +98,6 @@ Paneles interactivos en Power BI para el seguimiento de KPIs clave y soporte a l
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Modeling-4479A1?style=flat-square)
 
-### 🔐 Certicont — Auditoría de Seguridad y Redes
-Análisis de vulnerabilidades sobre servicios de red y elaboración de una propuesta técnica de segmentación segura.
-
-![Seguridad](https://img.shields.io/badge/Ciberseguridad-Auditor%C3%ADa-3A3A3C?style=flat-square)
-
 ---
 
 ## 🎓 Educación
