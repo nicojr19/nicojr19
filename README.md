@@ -8,15 +8,7 @@
 
 📍 Santiago, Chile · 🟢 Disponibilidad inmediata para práctica profesional
 
-<a href="mailto:nicolassmaldonadop1@gmail.com">
-  <img src="[img.shields.io](https://img.shields.io/badge/Email-nicolassmaldonadop1@gmail.com-3E9E28?style=for-the-badge&logo=gmail&logoColor=white)" />
-</a>
-<a href="[linkedin.com](https://www.linkedin.com/in/maldonadop)">
-  <img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-maldonadop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" />
-</a>
-<a href="[github.com](https://github.com/nicojr19)">
-  <img src="[img.shields.io](https://img.shields.io/badge/GitHub-nicojr19-3A3A3C?style=for-the-badge&logo=github&logoColor=white)" />
-</a>
+📧 [nicolassmaldonadop1@gmail.com](mailto:nicolassmaldonadop1@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/maldonadop) · 🐙 [GitHub](https://github.com/nicojr19)
 
 </div>
 
@@ -127,13 +119,15 @@ Análisis de vulnerabilidades sobre servicios de red y elaboración de una propu
 
 ### 📫 ¿Conversamos?
 
-<a href="mailto:nicolassmaldonadop1@gmail.com">
-  <img src="[img.shields.io](https://img.shields.io/badge/Escr%C3%ADbeme-nicolassmaldonadop1@gmail.com-3E9E28?style=for-the-badge&logo=gmail&logoColor=white)" />
-</a>
+📧 [nicolassmaldonadop1@gmail.com](mailto:nicolassmaldonadop1@gmail.com)
 
-![Visitor](https://komarev.com/ghpvc/?username=nicojr19&color=3E9E28&style=flat-square&label=Visitas+al+perfil)
+💼 [linkedin.com/in/maldonadop](https://www.linkedin.com/in/maldonadop)
+
+🐙 [github.com/nicojr19](https://github.com/nicojr19)
 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F7D1E,100:3E9E28&height=120&section=footer)
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-3E9E28?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolassmaldonadop1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maldonadop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maldonadop)
 
