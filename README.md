@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Nicolás Maldonado 👋
 
-<!--
-**nicojr19/nicojr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Informática y Desarrollador Full-Stack enfocado en crear soluciones web escalables, arquitecturas backend robustas e integración cloud.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** Python, JavaScript, SQL
+- **Backend & Frameworks:** Django, Node.js, REST APIs
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Bases de Datos:** PostgreSQL, MariaDB, SQL Server
+- **Infraestructura & Cloud:** AWS, Git, GitHub, Docker
+
+### 🚀 Proyectos Destacados
+
+- **[VISPRI](https://github.com/nicojr19/VISPRI):** Plataforma web desarrollada para consultoría de prevención de riesgos y salud ocupacional.
+- **PROYECTO ACADEMICO:** Plataforma web para pyme. Tienda virtual con integración de Inteligencia Artificial para resolver problemática de la incertidumbre del cliente.
+---
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/tu-perfil) | [Email](mailto:nicolassmaldonadop1@gmail.com)
