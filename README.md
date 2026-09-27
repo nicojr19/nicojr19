@@ -15,4 +15,4 @@ Ingeniero en Informática y Desarrollador Full-Stack enfocado en crear solucione
 - **[VISPRI](https://github.com/nicojr19/VISPRI):** Plataforma web desarrollada para consultoría de prevención de riesgos y salud ocupacional.
 - **PROYECTO ACADEMICO:** Plataforma web para pyme. Tienda virtual con integración de Inteligencia Artificial para resolver problemática de la incertidumbre del cliente.
 ---
-📫 **Contacto:** [LinkedIn](https://linkedin.com/in/tu-perfil) | [Email](mailto:nicolassmaldonadop1@gmail.com)
+📫 **Contacto:** [LinkedIn](www.linkedin.com/in/maldonadop) | [Email](mailto:nicolassmaldonadop1@gmail.com)
